@@ -1,0 +1,10 @@
+Data Cleaning Steps;Original Data;After Cleaning;Reason to do Cleaning Step;Tools
+Check Missing Values;23906;23906;No missing values were found;Spreadsheet
+Check Duplicates;23906;23906;"Checked duplicates based on car_id, no duplicates were found";Spreadsheet
+Remove Irrelevant Data;Column : Gender;Removed;"Too many incorrect gender data entered, for example : ""Matthew"" normally used for a male not female.";Spreadsheet
+;Column : Phone Number;Removed;Unused for analysis;Spreadsheet
+;Column : Dealer_No;Removed;Unused for analysis;Spreadsheet
+Convert Data Types;"""Date"" --> object datatype";"""Date"" --> datetime datatype";"Must be detected as datetime, so any possible time calculation would work in the coming future";Google Colab / BigQuery
+;"""Annual Income ($)"" --> object datatype";"""Annual Income ($)"" --> float datatype";"Must be detected as float, so any possible money calculation would work in the coming future, and the result should be precise";Google Colab / BigQuery
+;"""Price ($)"" --> object datatype";"""Price ($)"" --> float datatype";"Must be detected as float, so any possible money calculation would work in the coming future, and the result should be precise";Google Colab / BigQuery
+;"""Phone"" --> integer datatype";"""Phone"" --> string datatype";"Phone number is never a count data, it should be treated as object / string";Google Colab / BigQuery
