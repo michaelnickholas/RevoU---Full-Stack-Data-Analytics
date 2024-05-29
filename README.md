@@ -1,3 +1,5 @@
+Final Project Appendix :
+
 Colab (Python) for Customer Segmentation and Logistic Regression Propensity Model
 https://colab.research.google.com/drive/1-8hOJVwycHIziW3f8N0kG185Jeadx5CG?usp=sharing
 
