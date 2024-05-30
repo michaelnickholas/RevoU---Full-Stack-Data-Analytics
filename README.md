@@ -1,4 +1,11 @@
-Final Project Appendix :
+**Data Visualization Assigment Appendix :**
+
+Dashboard Link :
+
+https://public.tableau.com/views/W9W10_JAN24_Michael_Intermediate/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+
+**Final Project Appendix :**
 
 Colab (Python) for Customer Segmentation and Logistic Regression Propensity Model
 https://colab.research.google.com/drive/1-8hOJVwycHIziW3f8N0kG185Jeadx5CG?usp=sharing
