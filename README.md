@@ -1,4 +1,4 @@
-**Statistic & Spreadsheet Assignment Appendix**
+**Statistic & Spreadsheet Assignment Appendix :**
 
 Data Spreadsheet Link (Intermediate) :
 https://docs.google.com/spreadsheets/d/1GPb8UtWHFH8LnTSgp01tn1W62ytinzrDlQmuZsd2Vs8/edit?usp=sharing
