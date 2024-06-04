@@ -10,6 +10,29 @@ https://docs.google.com/spreadsheets/d/1dD3Sqd9Z5mM2nUprkxctse7tjfeRbAT5T94LJgOV
 
 
 
+**Python Assignment Appendix :**
+
+Data Spreadsheet Link (Intermediate) :
+
+https://docs.google.com/spreadsheets/d/1CKPge5CoeGfD3om-z1EbUG1I2IE5mXTMUN_hWwGTO1I/edit?usp=sharing
+
+
+Data Spreadsheet Link (Advanced) :
+
+https://docs.google.com/spreadsheets/d/1vEaQSwcedTlIjMuRHg6xYEbCkTTZGvZnvhCs0vNIqhE/edit?usp=sharing
+
+
+Python (Collab) Link (Intermediate) :
+
+https://colab.research.google.com/drive/1H5PS7g4_1pVE91MOtN4IwbMox3O8a0oH?usp=sharing
+
+
+Python (Collab) Link (Advanced) :
+
+https://colab.research.google.com/drive/1mlQolSW3qa1vwiMWw7SqRpQAPXD0_FH3?usp=sharing
+
+
+
 **Data Visualization Assignment Appendix :**
 
 Dashboard Link :
